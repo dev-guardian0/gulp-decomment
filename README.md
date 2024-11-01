@@ -36,17 +36,3 @@ gulp.task('default', () =>
 );
 ```
 
-## API
-
-Available methods, according to [decomment API](https://github.com/vitaly-t/decomment#api):
-
-##### - [decomment([options])](https://github.com/vitaly-t/decomment#decommentcode-options--string)
-##### - [decomment.text([options])](https://github.com/vitaly-t/decomment#decommenttexttext-options--string)
-##### - [decomment.html([options])](https://github.com/vitaly-t/decomment#decommenthtmlhtml-options--string)
-
-## License
-
-Copyright © 2021 [Vitaly Tomilov](https://github.com/vitaly-t);
-Released under the MIT license.
-
-[decomment]:https://github.com/vitaly-t/decomment
